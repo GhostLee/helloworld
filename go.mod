@@ -14,7 +14,7 @@ require (
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/spf13/cobra v1.1.1
-	github.com/tidwall/gjson v1.6.7
+	github.com/tidwall/gjson v1.9.3
 	github.com/unknwon/goconfig v0.0.0-20200908083735-df7de6a44db8
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0
@@ -24,6 +24,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
+	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 )
 
 replace golang.org/x/text => github.com/golang/text v0.3.4
